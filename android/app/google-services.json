@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "455210298263",
+    "project_id": "labexam2-98170",
+    "storage_bucket": "labexam2-98170.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455210298263:android:5f976050cc57d3a896b2d2",
+        "android_client_info": {
+          "package_name": "Arcilla.labexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd09Eytl0bFXMfkAECY-cIZF3v5sjxvcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
